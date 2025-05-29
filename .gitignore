@@ -1,2 +1,4 @@
 /01basicreact/node_modules
+/01basicreact/build
+/01basicreact/.env
 /01basicvite/node_modules
